@@ -1,0 +1,9 @@
+# Ignore Docker volumes/data
+db_data/
+
+# Ignore node_modules (if ever added later)
+node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
